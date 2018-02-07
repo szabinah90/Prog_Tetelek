@@ -10,7 +10,7 @@ const counting = (array) => {
   let counter = 0;
   for (let i = 0; i < array.length; i++) {
     // console.log(array[i]);
-    if (array[i] % 2 == 0) {
+    if (array[i] % 2 === 0) {
       counter += 1;
     }
   }

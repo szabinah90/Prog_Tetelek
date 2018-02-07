@@ -1,4 +1,4 @@
-// FEB 05. 
+// FEB 05.
 // PROGRAMOZÁSI TÉTELEK
 // II. MEGSZÁMLÁLÁS (itt most a pozitívok számát iratjuk ki)
 
